@@ -8,4 +8,6 @@ func main(){
 	fmt.Println("sohag")
 	fmt.Println("sohag")
 	fmt.Println("magnus")
+	fmt.Println("magnuslast")
+	
 }
