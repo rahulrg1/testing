@@ -6,6 +6,6 @@ import (
 func main(){
 	fmt.Println("rahul___pc")
 	fmt.Println("sohag")
-	fmt.Println("sohag1")
-	fmt.Println("roy")
+	fmt.Println("sohag")
+	fmt.Println("magnus")
 }
